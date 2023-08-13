@@ -1,12 +1,18 @@
-In đậm chữ: <b> </b> * Lưu ý: thẻ H1 đã được in đậm sẵn
-In nghiêng: <i> </i>
-Gạch chân: <u> </u>
+- Các thẻ thông dụng trong HTML 📑
 
-Phân trang: <hr></hr>
+⚙ In đậm chữ: `<b> </b>`
+ * Lưu ý: có một số thẻ trong HTMl đã có sẵn thuộc tính in đậm như các thẻ từ H1 đến H6.
+⚙ In nghiêng: `<i> </i>`
+⚙ Gạch chân: `<u> </u>`
 
-Chèn video: <video src=""></video>
+📄 Thẻ phân trang: `<hr> </hr> `
+ * Lưu ý: ta cũng có thể sử dụng đúng một thẻ mở vẫn dược `<hr>`.
 
-thẻ liên kết: <a href=" <chèn liên kết> "></a>
+📸 Thẻ chèn video: `<video src=""></video>`
+
+📷 Thẻ chèn ảnh: `<img src="" alt="">`
+
+🔗 Thẻ liên kết: `<a href=""></a>`
 
 -------------------------
 Đổi màu chữ bằng CSS
