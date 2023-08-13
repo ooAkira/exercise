@@ -3,7 +3,7 @@ h1 {
 }
 
 th {
-    color: blue;
+    color: #fff;
     font-size: 24px;
     font-weight: 500;
 }
@@ -30,4 +30,10 @@ th {
     text-align: center;
     border: none;
     width: 100%;
+}
+
+body {
+    background: url("https://wallpaperaccess.com/full/31190.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
