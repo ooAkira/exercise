@@ -1,39 +1,24 @@
-h1 {
-    color: aquamarine;
-}
-
-th {
-    color: #fff;
-    font-size: 24px;
-    font-weight: 500;
-}
-
-.cot1 {
-    font-size: 18px;
-    color: green;
-    font-weight: 200;
-    text-align: center;
-}
-
-.cot2 {
-    color: brown;
-    text-align: center;
-}
-
-.cot3 {
-    color: yellow;
-    font-style: italic;
-    text-align: center;
-}
-
-.total {
-    text-align: center;
-    border: none;
-    width: 100%;
-}
-
+/* 🤚🏽 set up background */
 body {
-    background: url("https://wallpaperaccess.com/full/31190.jpg");
-    background-repeat: no-repeat;
+    background: url("https://wallpaperaccess.com/full/2825711.gif");
     background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: rgba(31, 30, 30, 0.454);
+}
+
+h2 {
+    color: white;
+    background-color: rgba(40, 195, 55, 0.454);
+}
+
+table {
+    background-color: antiquewhite;
 }
