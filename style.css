@@ -22,3 +22,14 @@ h2 {
 table {
     background-color: antiquewhite;
 }
+
+th {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+td {
+    font-size: 18px;
+    font-weight: 200;
+}
